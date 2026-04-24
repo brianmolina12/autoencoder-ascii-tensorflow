@@ -24,6 +24,10 @@ escala de grises.
 - Extiende el concepto a imágenes 32×32 en escala de grises
 - Widget interactivo con ipywidgets para explorar reconstrucciones
 
+![Demo widget](captura_de_emoji.png)
+
+> 💡 Para usar el widget interactivo abrí el notebook en Colab
+
 ---
 
 ## 🛠 Tecnologías
